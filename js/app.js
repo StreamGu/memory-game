@@ -233,7 +233,7 @@ function congratulations(){
 
         //closeicon on modal
         closeModal();
-    };
+    }
 }
 
 
